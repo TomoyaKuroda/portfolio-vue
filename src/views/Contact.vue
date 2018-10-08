@@ -2,28 +2,14 @@
 <div id="contact">
 <div class="contents-wrap">
 	<div class="contents-img">
-		<img src="../assets/night.jpg" alt="">
+		<img src="../assets/email.jpg" alt="">
 	</div>
 	<div class="contents-text">
-		<h2>Shilin Night Market</h2>
-		<p>Shilin Night Market is a famous tourist spot in Taiwan.
-			 You can eat food at a budget restaurant and buy souvenirs.
-        </p>
+		<h2>My Contact Information</h2>
+		<p>Please feel free to contact me!</p>
+		<p>tomoya.kuroda@mygeorgian.ca</p>
 	</div>
 </div>
-
-<div class="contents-wrap">
-	<div class="contents-img">
-		<img src="../assets/101.jpg" alt="">
-	</div>
-	<div class="contents-text">
-		<h2>Beautiful scenery</h2>
-		<p>I took this picture at Taipei 101.</p>
-	</div>
-</div>
-
-
-
 </div>
 </template>
 <script>

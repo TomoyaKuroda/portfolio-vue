@@ -2,7 +2,20 @@
 <div id="about-me">
 <div class="contents-wrap">
 	<div class="contents-img">
-<img src="../assets/java.gif" alt="">
+		<img src="../assets/me.jpg" alt="">
+	</div>
+	<div class="contents-text">
+		<h2>Nice to meet you!</h2>
+		<p>Hi, I'm Tomoya.
+			After graduating from a university in Japan, I worked as a sales clerk to earn money and came to Canada to study programming. I live in Barrie and experience a lot of things.
+		</p>
+	</div>
+</div>
+
+
+<div class="contents-wrap">
+	<div class="contents-img">
+<img src="../assets/fuji.jpg" alt="">
 	</div>
 	<div class="contents-text">
 		<h2>The highest mountain in Japan</h2>
@@ -15,13 +28,13 @@
 
 <div class="contents-wrap">
 	<div class="contents-img">
-		<img src="../assets/cloud.jpg" alt="">
+<img src="../assets/barrie.jpg" alt="">
 	</div>
 	<div class="contents-text">
-		<h2>Beautiful cloud</h2>
-		<p>I like this picture the best.
-			I felt the power of nature.
-		</p>
+		<h2>Full of nature - Barrie</h2>
+		<p>I live in Barrie where there is my college. Barrie is nice and full of nature. I also went to Toronto and Niagara.
+            
+        </p>
 	</div>
 </div>
 

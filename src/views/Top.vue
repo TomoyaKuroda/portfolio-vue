@@ -4,7 +4,7 @@
     <div class="contents-wrap">
 	<div class="contents-box">
 		<img src="../assets/fuji.jpg" alt="flexbox">
-		<h2><router-link :to="{name:'about-me'}">Japan</router-link></h2>
+		<h2><router-link :to="{name:'about-me'}">About Me</router-link></h2>
 		<p>I grew up in Japan. I used to climb many mountains and take beautiful pictures.
 
 
@@ -12,15 +12,15 @@
 	</div>
 
 	<div class="contents-box">
-		<img src="../assets/barrie.jpg" alt="flexbox">
-		<h2><router-link :to="{name:'programming-skills'}">Canada</router-link></h2>
-		<p>I live in Barrie where there is my college. Barrie is nice and full of nature. I also went to Toronto and Niagara.</p>
+		<img src="../assets/programming.jpg" alt="flexbox">
+		<h2><router-link :to="{name:'programming-skills'}">Programming Skills</router-link></h2>
+		<p>I am currently enrolled at Georgian College and studying programming. You can see some projects which I have developed so far.</p>
 	</div>
 
 	<div class="contents-box">
-		<img src="../assets/night.jpg" alt="flexbox">
-		<h2><router-link :to="{name:'contact'}">Taiwan</router-link></h2>
-		<p>I have been to Taiwan twice. I love this country because they are friendly and we can have delicious food.</p>
+		<img src="../assets/contact.jpg" alt="flexbox">
+		<h2><router-link :to="{name:'contact'}">Contact</router-link></h2>
+		<p>Please feel free to contact me!</p>
 	</div>
 </div>
 </div></template>

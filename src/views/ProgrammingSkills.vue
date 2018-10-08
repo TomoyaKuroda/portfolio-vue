@@ -13,13 +13,12 @@
 
 <div class="contents-wrap">
 	<div class="contents-img">
-		<img src="../assets/niagara_falls.jpg" alt="">
+		<img src="../assets/asp.png" alt="">
 	</div>
 	<div class="contents-text">
-		<h2>Beautiful Falls</h2>
+		<h2>ASP.NET</h2>
 		<p>
-			I went to Niagara Falls with my friend in Fall 2017.
-
+			I developed a website using ASP.NET. <a href="https://tomoya-a1sss.azurewebsites.net/">Here</a> is the live link.
         </p>
 	</div>
 </div>
