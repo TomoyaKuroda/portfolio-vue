@@ -1,9 +1,9 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
 import Top from "./views/Top";
-import Japan from "./views/Japan";
-import Canada from "./views/Canada";
-import Taiwan from "./views/Taiwan";
+import AboutMe from "./views/AboutMe";
+import ProgrammingSkills from "./views/ProgrammingSkills";
+import Contact from "./views/Contact";
 
 Vue.use(VueRouter);
 const routes=[
@@ -13,19 +13,19 @@ const routes=[
         component:Top
     },
     {
-        path: "/Japan",
-        name:"japan",
-        component:Japan
+        path: "/about-me",
+        name:"about-me",
+        component:AboutMe
     },
     {
-        path: "/Canada",
-        name:"canada",
-        component:Canada
+        path: "/programming-skills",
+        name:"programming-skills",
+        component:ProgrammingSkills
     },
     {
-        path: "/Taiwan",
-        name:"taiwan",
-        component:Taiwan
+        path: "/contact",
+        name:"contact",
+        component:Contact
     }
 ];
 export default new VueRouter({

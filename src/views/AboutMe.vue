@@ -1,31 +1,29 @@
 <template>
-<div id="canada">
+<div id="about-me">
 <div class="contents-wrap">
 	<div class="contents-img">
-		<img src="../assets/barrie.jpg" alt="">
+<img src="../assets/java.gif" alt="">
 	</div>
 	<div class="contents-text">
-		<h2>Full of nature - Barrie</h2>
-		<p>People who live here are very kind.
-			We can see many animals(e.g., squirrel).
-		</p>
-	</div>
-</div>
-
-<div class="contents-wrap">
-	<div class="contents-img">
-		<img src="../assets/niagara_falls.jpg" alt="">
-	</div>
-	<div class="contents-text">
-		<h2>Beautiful Falls</h2>
-		<p>
-			I went to Niagara Falls with my friend in Fall 2017.
-
+		<h2>The highest mountain in Japan</h2>
+		<p>When I was a high school student, I joined a mountaineering club.
+            I love this activity because I can take such a beautiful picture.
+            
         </p>
 	</div>
 </div>
 
-
+<div class="contents-wrap">
+	<div class="contents-img">
+		<img src="../assets/cloud.jpg" alt="">
+	</div>
+	<div class="contents-text">
+		<h2>Beautiful cloud</h2>
+		<p>I like this picture the best.
+			I felt the power of nature.
+		</p>
+	</div>
+</div>
 
 </div>
 </template>
@@ -33,10 +31,9 @@
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
     export default{
-        name:"canada"
+        name:"about-me"
     };
 </script>
-
 <style lang="scss" scoped>
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
 *{

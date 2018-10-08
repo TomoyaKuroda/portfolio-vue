@@ -1,29 +1,28 @@
 <template>
-<div id="japan">
+<div id="contact">
 <div class="contents-wrap">
 	<div class="contents-img">
-		<img src="../assets/fuji.jpg" alt="">
+		<img src="../assets/night.jpg" alt="">
 	</div>
 	<div class="contents-text">
-		<h2>The highest mountain in Japan</h2>
-		<p>When I was a high school student, I joined a mountaineering club.
-            I love this activity because I can take such a beautiful picture.
-            
+		<h2>Shilin Night Market</h2>
+		<p>Shilin Night Market is a famous tourist spot in Taiwan.
+			 You can eat food at a budget restaurant and buy souvenirs.
         </p>
 	</div>
 </div>
 
 <div class="contents-wrap">
 	<div class="contents-img">
-		<img src="../assets/cloud.jpg" alt="">
+		<img src="../assets/101.jpg" alt="">
 	</div>
 	<div class="contents-text">
-		<h2>Beautiful cloud</h2>
-		<p>I like this picture the best.
-			I felt the power of nature.
-		</p>
+		<h2>Beautiful scenery</h2>
+		<p>I took this picture at Taipei 101.</p>
 	</div>
 </div>
+
+
 
 </div>
 </template>
@@ -31,7 +30,7 @@
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
     export default{
-        name:"japan"
+        name:"contact"
     };
 </script>
 <style lang="scss" scoped>

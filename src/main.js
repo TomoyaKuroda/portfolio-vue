@@ -11,4 +11,5 @@ new Vue({
   render: h => h(App)
 })
 
+
 Vue.use(BootstrapVue);

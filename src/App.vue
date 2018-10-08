@@ -7,9 +7,9 @@
     </h1>
 	<nav>
 		<ul>
-      <li class="square_btn"><router-link :to="{name:'japan'}">Japan</router-link></li>
-      <li class="square_btn"><router-link :to="{name:'canada'}">Canada</router-link></li>
-      <li class="square_btn"><router-link :to="{name:'taiwan'}">Taiwan</router-link></li>
+      <li class="square_btn"><router-link :to="{name:'about-me'}">About Me</router-link></li>
+      <li class="square_btn"><router-link :to="{name:'programming-skills'}">Programming Skills</router-link></li>
+      <li class="square_btn"><router-link :to="{name:'contact'}">Contact</router-link></li>
 		</ul>
 	</nav>
 </header>

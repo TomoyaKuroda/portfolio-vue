@@ -1,24 +1,26 @@
 <template>
-<div id="taiwan">
+<div id="programming-skills">
 <div class="contents-wrap">
 	<div class="contents-img">
-		<img src="../assets/night.jpg" alt="">
+<img src="../assets/java.gif" alt="">
 	</div>
 	<div class="contents-text">
-		<h2>Shilin Night Market</h2>
-		<p>Shilin Night Market is a famous tourist spot in Taiwan.
-			 You can eat food at a budget restaurant and buy souvenirs.
-        </p>
+		<h2>Java</h2>
+		<p>I can create classes and methods. Also I'm able to work with JavaFX objects.
+		</p>
 	</div>
 </div>
 
 <div class="contents-wrap">
 	<div class="contents-img">
-		<img src="../assets/101.jpg" alt="">
+		<img src="../assets/niagara_falls.jpg" alt="">
 	</div>
 	<div class="contents-text">
-		<h2>Beautiful scenery</h2>
-		<p>I took this picture at Taipei 101.</p>
+		<h2>Beautiful Falls</h2>
+		<p>
+			I went to Niagara Falls with my friend in Fall 2017.
+
+        </p>
 	</div>
 </div>
 
@@ -30,9 +32,10 @@
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
     export default{
-        name:"taiwan"
+        name:"programming-skills"
     };
 </script>
+
 <style lang="scss" scoped>
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
 *{
