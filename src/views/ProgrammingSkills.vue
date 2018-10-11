@@ -13,7 +13,7 @@
 
 <div class="contents-wrap">
 	<div class="contents-img">
-		<img src="../assets/asp.png" alt="">
+		<img src="../assets/asp.jpg" alt="">
 	</div>
 	<div class="contents-text">
 		<h2>ASP.NET</h2>
