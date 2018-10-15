@@ -19,30 +19,7 @@ export default {
   name: "contact"
 };
 
-var nodemailer = require("nodemailer");
 
-var transporter = nodemailer.createTransport({
-  service: "gmail",
-  auth: {
-    user: "kunikazutayama@gmail.com",
-    pass: "bLE2IizqnB13"
-  }
-});
-
-var mailOptions = {
-  from: "kunikazutayama@gmail.com",
-  to: "fidero@gmail.com",
-  subject: "Sending Email using Node.js",
-  text: "That was easy!"
-};
-
-transporter.sendMail(mailOptions, function(error, info) {
-  if (error) {
-    console.log(error);
-  } else {
-    console.log("Email sent: " + info.response);
-  }
-});
 </script>
 <style lang="scss" scoped>
 @import url("https://fonts.googleapis.com/css?family=Ubuntu");
