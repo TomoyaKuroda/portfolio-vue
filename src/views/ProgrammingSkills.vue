@@ -28,62 +28,62 @@
 </div>
 </template>
 <script>
-import 'bootstrap/dist/css/bootstrap.css'
-import 'bootstrap-vue/dist/bootstrap-vue.css'
-    export default{
-        name:"programming-skills"
-    };
+import "bootstrap/dist/css/bootstrap.css";
+import "bootstrap-vue/dist/bootstrap-vue.css";
+export default {
+  name: "programming-skills"
+};
 </script>
 
 <style lang="scss" scoped>
-@import url('https://fonts.googleapis.com/css?family=Ubuntu');
-*{
-    font-family: 'Ubuntu', sans-serif;
+@import url("https://fonts.googleapis.com/css?family=Ubuntu");
+* {
+  font-family: "Ubuntu", sans-serif;
 }
 .contents-wrap {
-	display: flex;
-	justify-content: space-between;
-	margin-bottom: 7rem;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 7rem;
 }
 .contents-wrap:nth-child(odd) {
-	flex-direction: row-reverse;
+  flex-direction: row-reverse;
 }
 
 .contents-text {
-	width: 60%; /*flex: 2;*/
+  width: 60%; /*flex: 2;*/
 }
 .contents-img {
-	width: 35%; /*flex: 1;*/
+  width: 35%; /*flex: 1;*/
 }
 
 .contents-text h2 {
-	margin-bottom: 2rem;
-	font-size: 2.2rem;
+  margin-bottom: 2rem;
+  font-size: 2.2rem;
 }
 
 .contents-img img {
-	display: block;
-	width: 100%;
-	height: auto;
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
-@media screen and (max-width: 768px){
-	.contents-wrap,
-	.contents-wrap:nth-child(odd)  {
-		flex-direction: column;
-	}
+@media screen and (max-width: 768px) {
+  .contents-wrap,
+  .contents-wrap:nth-child(odd) {
+    flex-direction: column;
+  }
 
-	.contents-text,
-	.contents-img {
-		width: 100%; /*flex: 1;*/
-	}
+  .contents-text,
+  .contents-img {
+    width: 100%; /*flex: 1;*/
+  }
 
-	.contents-text {
-		padding: 3rem;
-	}
+  .contents-text {
+    padding: 3rem;
+  }
 
-	.contents-text h2 {
-		text-align: center;
-	}
+  .contents-text h2 {
+    text-align: center;
+  }
 }
 </style>
