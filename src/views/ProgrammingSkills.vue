@@ -2,6 +2,18 @@
 <div id="programming-skills">
 <div class="contents-wrap">
 	<div class="contents-img">
+		<img src="../assets/assiston.png" alt="">
+	</div>
+	<div class="contents-text">
+		<h2>WordPress</h2>
+		<p>
+			We developed a WordPress website for a study abroad agency. I received HTML and CSS from my friend who is a web designer and I converted them into PHP. <a href="http://assiston-toronto.com/">Here</a> is the live link.
+        </p>
+	</div>
+</div>
+
+<div class="contents-wrap">
+	<div class="contents-img">
 <img src="../assets/java.gif" alt="">
 	</div>
 	<div class="contents-text">
