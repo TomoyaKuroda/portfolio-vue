@@ -6,11 +6,8 @@
       </div>
       <div class="contents-text">
         <h2>WordPress</h2>
-        <p>
-          We developed a WordPress website for a study abroad agency. I received HTML and CSS from my friend who is a web designer and I converted them into WordPress theme.
-          <a
-            href="http://assiston-toronto.com/"
-          >Here</a> is the live link.
+        <p>We developed a WordPress website for a study abroad agency. I received HTML and CSS from my friend who is a web designer and I converted them into WordPress theme.
+          <a href="http://assiston-toronto.com/">Here</a> is the live link.
         </p>
       </div>
     </div>
@@ -21,14 +18,7 @@
       </div>
       <div class="contents-text">
         <h2>React</h2>
-        <p>
-          I created Todo App with React.
-          <a
-            href="https://condescending-mccarthy-88aaab.netlify.com/"
-          >Here</a>
-
-           is the live link.
-        </p>
+        <p>I created Todo App with React.</p>
       </div>
     </div>
 
@@ -48,8 +38,7 @@
       </div>
       <div class="contents-text">
         <h2>ASP.NET</h2>
-        <p>
-          I developed a website using ASP.NET.
+        <p>I developed a website using ASP.NET.
           <a href="https://tomoya-a1sss.azurewebsites.net/">Here</a> is the live link.
         </p>
       </div>
